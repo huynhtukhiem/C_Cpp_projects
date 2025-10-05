@@ -6,4 +6,4 @@ Những dự án nhỏ giúp thành thạo cú pháp trong C; C++ kết hợp v�
 
 | Dự án | Ngôn ngữ | Mô tả |
 |--------|-----------|-------|
-| [To-Do List clone](https://github.com/yourusername/todo-list-c) | C | Ứng dụng console quản lý công việc: thêm, sửa, xóa, lưu vào file. |
+| [To-Do List clone](https://github.com/huynhtukhiem/todo-list-c) | C | Ứng dụng console quản lý công việc: thêm, sửa, xóa, lưu vào file. |
