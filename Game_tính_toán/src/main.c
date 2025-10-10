@@ -1,6 +1,6 @@
 #include<stdio.h>
-#include<windows.h>
-#include<time.h>
+#include<windows.h> // Thư viện này dùng để in ra tiếng việt trong hàm main
+#include<time.h> // Thư viện này dùng để sinh số ngẫu nhiên
 #include<stdlib.h>
 
 // Khai báo prototype
