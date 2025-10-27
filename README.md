@@ -14,6 +14,7 @@ Những chương trình mang tính logic, tính toán trong C; C++ giúp luyện
 | Dự án | Ngôn ngữ | Mô tả |
 |--------|-----------|-------|
 | [Game tính toán phép tính](https://github.com/huynhtukhiem/C_Cpp_projects/tree/main/Game_tính_toán) | C | Trò chơi giúp tính các phép tính phù hợp cho trẻ em muốn rèn luyện khả năng tính toán của mình. |
+| Phần mềm học từ vựng](https://github.com/huynhtukhiem/C_Cpp_projects/tree/main/Game_tính_toán) | C | Phần mềm ôn tập các từ vựng tiếng anh có sẳn thông qua bài tập trắc nghiệm |
 
 
 
